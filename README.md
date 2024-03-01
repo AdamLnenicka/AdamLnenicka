@@ -8,6 +8,8 @@
 
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
+- <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
@@ -38,7 +40,6 @@
   
 <h2>👨‍💻 Other Projects:</h2>
 
-- <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
 <h2> 🤳 Connect with me:</h2>
