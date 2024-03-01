@@ -1,6 +1,9 @@
 <h1>Hi, I'm Adam Lnenicka! <br/>Systems Administration Student</a>, IT enthusiast</a>
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
+
+- <b> [Render chain and shader programming](https://github.com/AdamLnenicka/IZG) </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
   
   - <b> [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
