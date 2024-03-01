@@ -4,7 +4,7 @@
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
 
-- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphores) </b>
+- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
