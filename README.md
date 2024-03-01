@@ -17,6 +17,20 @@
   CCNA - Networks :white_check_mark:
   
   CCNA2 – Switching, Routing and Wireless Essentials :white_check_mark:
+
+  Configurations of networks with Cisco devices:
+  - <b> :electric_plug: [IPv4 dynamic routing](https://github.com/AdamLnenicka/ipv4routing) </b>
+
+  - <b> :electric_plug: [IPv6 dynamic routing](https://github.com/AdamLnenicka/ipv6routing) </b>
+
+  - <b> :electric_plug: [DHCPv4, Stateless DHCPv6, Statefull DHCPv6](https://github.com/AdamLnenicka/dhcpv4-6) </b>
+
+  - <b> :electric_plug: [HSRP](https://github.com/AdamLnenicka/hsrp) </b>
+
+  - <b> :electric_plug: [STP + etherchannel](https://github.com/AdamLnenicka/stp+eth) </b>
+
+  - <b> :electric_plug: [Vlan security, dhcp snooping](https://github.com/AdamLnenicka/snooping) </b>
+  
   
 <h2>👨‍💻 Other Projects:</h2>
 
