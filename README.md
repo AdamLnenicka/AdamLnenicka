@@ -4,6 +4,8 @@
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
 
+- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphores) </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
