@@ -10,9 +10,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
-  - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
+  - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
 
-  - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) </b>
+  - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) (enterprise architect) </b>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
@@ -20,7 +20,7 @@
   
   CCNA2 – Switching, Routing and Wireless Essentials :white_check_mark:
 
-  Configurations of networks with Cisco devices:
+  Configurations of networks with Cisco devices (in packet tracer):
   - <b> :electric_plug: [IPv4 dynamic routing](https://github.com/AdamLnenicka/ipv4routing) </b>
 
   - <b> :electric_plug: [IPv6 dynamic routing](https://github.com/AdamLnenicka/ipv6routing) </b>
