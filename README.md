@@ -2,17 +2,17 @@
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b> [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
+- <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
-  - <b> [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
+  - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
 
-  - <b> [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) </b>
+  - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) </b>
   
 <h2>👨‍💻 Other Projects:</h2>
 
-- <b> [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
+- <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/AdamLnenicka/servis)
