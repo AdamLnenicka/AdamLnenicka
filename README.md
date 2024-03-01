@@ -2,11 +2,11 @@
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
+- <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
 
-- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) </b>
+- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) (in c)</b>
 
-- <b> :envelope: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) </b>
+- <b> :envelope: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in bash)</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
