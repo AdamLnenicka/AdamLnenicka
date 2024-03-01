@@ -6,7 +6,7 @@
 
 - <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) (c + shell)</b>
 
-- <b> :envelope: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
+- <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
@@ -21,19 +21,19 @@
   CCNA2 – Switching, Routing and Wireless Essentials :white_check_mark:
 
   Configurations of networks with Cisco devices (in packet tracer):
-  - <b> :electric_plug: [IPv4 dynamic routing](https://github.com/AdamLnenicka/ipv4routing) </b>
+  - <b> :signal_strength: [IPv4 dynamic routing](https://github.com/AdamLnenicka/ipv4routing) </b>
 
-  - <b> :electric_plug: [IPv6 dynamic routing](https://github.com/AdamLnenicka/ipv6routing) </b>
+  - <b> :signal_strength: [IPv6 dynamic routing](https://github.com/AdamLnenicka/ipv6routing) </b>
 
-  - <b> :electric_plug: [DHCPv4, Stateless DHCPv6, Statefull DHCPv6](https://github.com/AdamLnenicka/dhcpv4-6) </b>
+  - <b> :signal_strength: [DHCPv4, Stateless DHCPv6, Statefull DHCPv6](https://github.com/AdamLnenicka/dhcpv4-6) </b>
 
-  - <b> :electric_plug: [HSRP](https://github.com/AdamLnenicka/hsrp) </b>
+  - <b> :signal_strength: [HSRP](https://github.com/AdamLnenicka/hsrp) </b>
 
-  - <b> :electric_plug: [STP + etherchannel](https://github.com/AdamLnenicka/stp+eth) </b>
+  - <b> :signal_strength: [STP + etherchannel](https://github.com/AdamLnenicka/stp+eth) </b>
 
-  - <b> :electric_plug: [Vlan security, dhcp snooping](https://github.com/AdamLnenicka/snooping) </b>
+  - <b> :signal_strength: [Vlan security, dhcp snooping](https://github.com/AdamLnenicka/snooping) </b>
 
-  - <b> :electric_plug: [ACL (Access control list)](https://github.com/AdamLnenicka/ACL) </b>
+  - <b> :signal_strength: [ACL (Access control list)](https://github.com/AdamLnenicka/ACL) </b>
   
   
 <h2>👨‍💻 Other Projects:</h2>
