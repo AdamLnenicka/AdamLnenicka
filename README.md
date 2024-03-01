@@ -9,6 +9,8 @@
   
 <h2>👨‍💻 Other Projects:</h2>
 
+- <b> [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/AdamLnenicka/servis)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
