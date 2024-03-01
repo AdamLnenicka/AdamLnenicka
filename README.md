@@ -6,6 +6,8 @@
 
 - <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) </b>
 
+- <b> :envelope: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
