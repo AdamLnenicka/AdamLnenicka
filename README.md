@@ -2,10 +2,15 @@
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
+  
+  - <b> [Web App for car servicing](https://github.com/AdamLnenicka/servis) </b>
+
+  - <b> [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) </b>
+  
 <h2>👨‍💻 Other Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/AdamLnenicka/servis)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
