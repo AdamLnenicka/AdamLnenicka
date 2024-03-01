@@ -38,6 +38,7 @@
   
 <h2>👨‍💻 Other Projects:</h2>
 
+- <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
 <h2> 🤳 Connect with me:</h2>
