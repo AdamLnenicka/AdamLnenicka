@@ -13,8 +13,10 @@
   - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) </b>
 
 <h2>👨‍💻 Networking Projects:</h2>
-  CCNA course - Networks :white_check_mark:
-  CCNA2 course – Switching, Routing and Wireless Essentials :white_check_mark:
+
+  CCNA - Networks :white_check_mark:
+  
+  CCNA2 – Switching, Routing and Wireless Essentials :white_check_mark:
   
 <h2>👨‍💻 Other Projects:</h2>
 
