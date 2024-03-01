@@ -2,7 +2,7 @@
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b> [Render chain and shader programming](https://github.com/AdamLnenicka/IZG) </b>
+- <b> [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
