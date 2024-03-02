@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam Lnenicka! <br/>Systems Administration Student</a>, IT enthusiast</a>
+<h1>Hi, I'm Adam! <br/>Systems Administration Student</a>, IT enthusiast</a>
 <h2>👨‍💻 Administration Projects:</h2>
 <h2>👨‍💻 Coding Projects:</h2>
 
