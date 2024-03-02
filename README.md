@@ -42,7 +42,9 @@
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
-- <b> [SQL](https://github.com/AdamLnenicka/SQL) </b>
+- <b> :blue_book: [SQL - bookstore](https://github.com/AdamLnenicka/SQL-bookstore) </b>
+
+- <b> :beer: [SQL - brewery](https://github.com/AdamLnenicka/SQL-brewery) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
