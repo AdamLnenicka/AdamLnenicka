@@ -1,4 +1,8 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration Student</a>, IT enthusiast</a>
+  
+- 🌱 I’m currently learning: Virtualization and cloud services
+- 🔭 I’m currently working on projects: System design from the information security manager's point of view, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework
+  
 <h2>👨‍💻 Administration Projects:</h2>
   
   - <b> :cd: [Web inc (50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
