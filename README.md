@@ -1,5 +1,10 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration Student</a>, IT enthusiast</a>
 <h2>👨‍💻 Administration Projects:</h2>
+  
+  - <b> :cd: [Web inc (50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
+  
+  - <b> :penguin: [Debian Servers x Ubuntu client configuration](https://github.com/AdamLnenicka/lin1) </b>
+  
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
