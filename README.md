@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on projects: Cyber security for system development and administration, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework
   
 <h2>👨‍💻 Administration Projects:</h2>
+
+  - <b> :cd: [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1) </b>
   
   - <b> :cd: [Web inc (50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
   
