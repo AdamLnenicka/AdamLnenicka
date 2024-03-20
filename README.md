@@ -51,6 +51,10 @@
   
 <h2>👨‍💻 Other Projects:</h2>
 
+- <b> [Web app architecture usin ITIL framework](https://github.com/AdamLnenicka/ITIL) </b>
+
+- <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) </b>
+
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
 - <b> :blue_book: [SQL - bookstore](https://github.com/AdamLnenicka/SQL-bookstore) </b>
