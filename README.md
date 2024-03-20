@@ -21,6 +21,10 @@
 
 - <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
 
+- <b> :blue_book: [SQL - bookstore](https://github.com/AdamLnenicka/SQL-bookstore) </b>
+
+- <b> :beer: [SQL - brewery](https://github.com/AdamLnenicka/SQL-brewery) </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
@@ -57,9 +61,7 @@
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
-- <b> :blue_book: [SQL - bookstore](https://github.com/AdamLnenicka/SQL-bookstore) </b>
 
-- <b> :beer: [SQL - brewery](https://github.com/AdamLnenicka/SQL-brewery) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
