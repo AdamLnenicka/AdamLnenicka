@@ -57,7 +57,7 @@
 
 - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
-- <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) </b>
+- <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) [in progress]</b>
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
