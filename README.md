@@ -5,11 +5,11 @@
   
 <h2>👨‍💻 Administration Projects:</h2>
 
-  - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1) </b>
+  - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
-  - <b> :cd: [Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
+  - <b> :cd: [Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1)[in progress] </b>
   
-  - <b> :penguin: [Debian Servers x Ubuntu client configuration](https://github.com/AdamLnenicka/lin1) </b>
+  - <b> :penguin: [Debian Servers x Ubuntu client configuration](https://github.com/AdamLnenicka/lin1)[in progress] </b>
   
 <h2>👨‍💻 Coding Projects:</h2>
 
@@ -55,7 +55,7 @@
   
 <h2>👨‍💻 Other Projects:</h2>
 
-- <b> [Web app architecture usin ITIL framework](https://github.com/AdamLnenicka/ITIL) </b>
+- <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
 - <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) </b>
 
