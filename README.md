@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration at MENDELU, Software Engineer | System Administrator</a> </h1>
 
 <details>
-<summary>🔭 🌱 I’m currently learning: </summary>
+<summary>🌱 I’m currently learning: </summary>
 
   - <b> :cloud: Virtualization and cloud services </b>
   - <b> Administration of MySQL and NoSQL database systems </b>
