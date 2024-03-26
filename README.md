@@ -13,7 +13,7 @@
 <details>
 <summary>🔭 I’m currently working on projects:</summary>
 
-  - <b> :cloud: Virtualization and Containerization Deployment and Management </b>
+  - <b> Virtualization and Containerization Deployment and Management </b>
   - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
   - <b> Web app architecture using ITIL framework </b>
   - <b> CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins </b>
