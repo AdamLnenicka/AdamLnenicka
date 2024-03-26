@@ -40,6 +40,8 @@
 
   - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) (enterprise architect) </b>
 
+  - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
+
 </details>
 
 <details>
@@ -67,8 +69,6 @@
   
 <details>
 <summary><h2>👨‍💻 Other Projects:</h2></summary>
-
-- <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
 - <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) [in progress]</b>
 
