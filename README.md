@@ -3,13 +3,25 @@
 - 🌱 I’m currently learning: Virtualization and cloud services
 
 <details>
+<summary>🔭 🌱 I’m currently learning: </summary>
+
+  - <b> :cloud: Virtualization and cloud services </b>
+  - <b> Administration of MySQL and NoSQL database systems </b>
+  - <b> Implementation of ITIL framework </b>
+  - <b> Formal languages and compilers </b>
+
+</details>
+
+<details>
 <summary>🔭 I’m currently working on projects:</summary>
 
   - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/VCS)[in progress] </b>
-  - <b> Administration of MySQL and NoSQL database systems </b>
-  - <b> Implementation of ITIL framework </b>
+  - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
+  - <b> Web app architecture using ITIL framework </b>
+  - <b> CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins </b>
 
 </details>
+
 <details>
 <summary><h2>👨‍💻 Administration Projects:</h2></summary>
   
