@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration at MENDELU, Software Engineer | Cloud Engineer | System Administrator</a> </h1>
   
 - 🌱 I’m currently learning: Virtualization and cloud services
-- 🔭 I’m currently working on projects: Cyber security for system development and administration, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework
+- 🔭 I’m currently working on projects: Integrated Cybersecurity Framework for Educational Institutions, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework, formal languages and compilers
   
 <h2>👨‍💻 Administration Projects:</h2>
 
