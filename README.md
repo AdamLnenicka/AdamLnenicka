@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on projects: Integrated Cybersecurity Framework for Educational Institutions, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework, formal languages and compilers
   
 <details>
-<summary><h2>👨‍💻 Administration Projects</h2></summary>
+<summary><h2>👨‍💻 Administration Projects:</h2></summary>
 
   - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Coding Projects</h2></summary>
+<summary><h2>👨‍💻 Coding Projects:</h2></summary>
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
 
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Software Development Projects</h2></summary>
+<summary><h2>👨‍💻 Software Development Projects:</h2></summary>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
 
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Networking Projects</h2></summary>
+<summary><h2>👨‍💻 Networking Projects:</h2></summary>
 
   CCNA - Networks :white_check_mark:
   
@@ -65,7 +65,7 @@
 </details>
   
 <details>
-<summary><h2>👨‍💻 Other Projects</h2></summary>
+<summary><h2>👨‍💻 Other Projects:</h2></summary>
 
 - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
@@ -74,3 +74,5 @@
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
 </details>
+
+<a href="[odkaz-na-váš-linkedin-profil](https://www.linkedin.com/in/adam-ln%C4%9Bni%C4%8Dka-9221b22b8/)" target="_blank"><img src="url-ikonu-linkedinu" alt="LinkedIn" width="40" height="40"></a>
