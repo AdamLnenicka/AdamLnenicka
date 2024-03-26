@@ -47,7 +47,6 @@
   
   CCNA2 – Switching, Routing and Wireless Essentials :white_check_mark:
 
-  Configurations of networks with Cisco devices (in packet tracer):
   - <b> :signal_strength: [IPv4 dynamic routing](https://github.com/AdamLnenicka/ipv4routing) </b>
 
   - <b> :signal_strength: [IPv6 dynamic routing](https://github.com/AdamLnenicka/ipv6routing) </b>
