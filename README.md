@@ -6,7 +6,7 @@
 <details>
 <summary><h2>👨‍💻 Administration Projects:</h2></summary>
   
-  - <b> [Virtualization and Containerization](https://github.com/AdamLnenicka/VCS)[in progress] </b>
+  - <b> :cloud: [Virtualization and Containerization](https://github.com/AdamLnenicka/VCS)[in progress] </b>
 
   - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
