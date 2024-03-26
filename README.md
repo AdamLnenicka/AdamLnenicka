@@ -59,7 +59,7 @@
 
   - <b> :signal_strength: [HSRP](https://github.com/AdamLnenicka/hsrp) </b>
 
-  - <b> :signal_strength: [STP + etherchannel](https://github.com/AdamLnenicka/stp+eth) </b>
+  - <b> :signal_strength: [STP + etherchannel](https://github.com/AdamLnenicka/stp-eth) </b>
 
   - <b> :signal_strength: [Vlan security, dhcp snooping](https://github.com/AdamLnenicka/snooping) </b>
 
