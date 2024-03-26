@@ -75,5 +75,5 @@
 
 </details>
 
-<a href="https://www.linkedin.com/in/adam-ln%C4%9Bni%C4%8Dka-9221b22b8/" target="_blank"><img src="url-ikonu-linkedinu" alt="LinkedIn" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/adam-ln%C4%9Bni%C4%8Dka-9221b22b8/" target="_blank"><img src="[url-ikonu-linkedinu](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-znrfbdj4.png)https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-znrfbdj4.png" alt="LinkedIn" width="40" height="40"></a>
 
