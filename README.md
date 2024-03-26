@@ -1,6 +1,4 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration at MENDELU, Software Engineer | System Administrator</a> </h1>
-  
-- 🌱 I’m currently learning: Virtualization and cloud services
 
 <details>
 <summary>🔭 🌱 I’m currently learning: </summary>
