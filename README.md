@@ -3,15 +3,19 @@
 - 🌱 I’m currently learning: Virtualization and cloud services
 - 🔭 I’m currently working on projects: Integrated Cybersecurity Framework for Educational Institutions, Administration of MySQL and NoSQL database systems, Implementation of ITIL framework, formal languages and compilers
   
-<h2>👨‍💻 Administration Projects:</h2>
+<details>
+<summary><h2>👨‍💻 Administration Projects:</h2></summary>
 
   - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
   - <b> :cd: [Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
   
   - <b> :penguin: [Debian Servers x Ubuntu client configuration](https://github.com/AdamLnenicka/lin1) </b>
-  
-<h2>👨‍💻 Coding Projects:</h2>
+
+</details>
+
+<details>
+<summary><h2>👨‍💻 Coding Projects:</h2></summary>
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
 
@@ -25,13 +29,19 @@
 
 - <b> :beer: [SQL - brewery](https://github.com/AdamLnenicka/SQL-brewery) </b>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+</details>
+
+<details>
+<summary><h2>👨‍💻 Software Development Projects:</h2></summary>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
 
   - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) (enterprise architect) </b>
 
-<h2>👨‍💻 Networking Projects:</h2>
+</details>
+
+<details>
+<summary><h2>👨‍💻 Networking Projects:</h2></summary>
 
   CCNA - Networks :white_check_mark:
   
@@ -51,9 +61,11 @@
   - <b> :signal_strength: [Vlan security, dhcp snooping](https://github.com/AdamLnenicka/snooping) </b>
 
   - <b> :signal_strength: [ACL (Access control list)](https://github.com/AdamLnenicka/ACL) </b>
+
+</details>
   
-  
-<h2>👨‍💻 Other Projects:</h2>
+<details>
+<summary><h2>👨‍💻 Other Projects:</h2></summary>
 
 - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
@@ -61,4 +73,4 @@
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
-
+</details>
