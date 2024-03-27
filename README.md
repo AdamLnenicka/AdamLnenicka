@@ -38,7 +38,7 @@
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
 
-- <b> :envelope: [The barbershop problem](https://github.com/AdamLnenicka/semaphors) (c + shell)</b>
+- <b> :envelope: [Post office - Semaphores in Process Synchronization ](https://github.com/AdamLnenicka/semaphors) (in c)</b>
 
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
