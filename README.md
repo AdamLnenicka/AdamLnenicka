@@ -27,7 +27,7 @@
 
   - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
-  - <b> :🪟: [Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
+  - <b> :window: [Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
   
   - <b> :penguin: [Debian Servers x Ubuntu client configuration](https://github.com/AdamLnenicka/lin1) </b>
 
