@@ -42,6 +42,8 @@
 
 - <b> [Spreadsheet Processor](https://github.com/AdamLnenicka/izp) (in c)</b>
 
+- <b> [Tabular data Processor](https://github.com/AdamLnenicka/izp2) (in c)</b>
+
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
 - <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
