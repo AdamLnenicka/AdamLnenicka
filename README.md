@@ -40,6 +40,8 @@
 
 - <b> :envelope: [Post office - Semaphores in Process Synchronization ](https://github.com/AdamLnenicka/semaphors) (in c)</b>
 
+- <b> [Spreadsheet Processor](https://github.com/AdamLnenicka/izp) (in c)</b>
+
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
 - <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
