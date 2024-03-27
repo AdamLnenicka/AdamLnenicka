@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adam! <br/>Systems Administration at MENDELU, Software Engineer | System Administrator</a> </h1>
 
 <details>
-<summary>🌱 I’m currently learning: </summary>
+<summary>🌱 What I’m currently learning </summary>
 
   - <b> :cloud: Virtualization and cloud services </b>
   - <b> Administration of MySQL and NoSQL database systems </b>
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary>🔭 I’m currently working on projects:</summary>
+<summary>🔭 Projects that I’m currently working on</summary>
 
   - <b> Virtualization and Containerization Deployment and Management </b>
   - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Administration Projects:</h2></summary>
+<summary><h2>👨‍💻System Administration Projects</h2></summary>
   
   - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/VCS)[in progress] </b>
 
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Coding Projects:</h2></summary>
+<summary><h2>👨‍💻 Coding Projects</h2></summary>
 
 - <b> :space_invader: [Render chain and shader programming, implementation of GPU](https://github.com/AdamLnenicka/IZG) (in c) </b>
 
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Software Development Projects:</h2></summary>
+<summary><h2>👨‍💻 Software Development Projects</h2></summary>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
 
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Networking Projects:</h2></summary>
+<summary><h2>👨‍💻 Networking Projects</h2></summary>
 
   CCNA - Networks :white_check_mark:
   
@@ -91,7 +91,7 @@
 </details>
   
 <details>
-<summary><h2>👨‍💻 Other Projects:</h2></summary>
+<summary><h2>👨‍💻 Other Projects</h2></summary>
 
 - <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) [in progress]</b>
 
