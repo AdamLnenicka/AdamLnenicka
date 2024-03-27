@@ -23,7 +23,7 @@
 <details>
 <summary><h2>👨‍💻System Administration Projects</h2></summary>
   
-  - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/VCS)[in progress] </b>
+  - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
 
   - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
