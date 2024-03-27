@@ -44,6 +44,8 @@
 
 - <b> [Tabular data Manipulator](https://github.com/AdamLnenicka/izp2) (in c)</b>
 
+- <b> :snake: [Python Scripts](https://github.com/AdamLnenicka/isj) (in c)</b>
+
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
 - <b> [Stock exchange Tradelog](https://github.com/AdamLnenicka/ios1) (in shell)</b>
