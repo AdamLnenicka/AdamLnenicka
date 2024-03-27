@@ -46,6 +46,8 @@
 
 - <b> :shell: [WEDI - File Editing and Tracking Utility](https://github.com/AdamLnenicka/WEDI) (in shell)</b>
 
+- <b> [Stock exchange Tradelog](https://github.com/AdamLnenicka/ios1) (shell)</b>
+
 - <b> :wrench: [VHDL programming](https://github.com/AdamLnenicka/vhdl) </b>
 
 - <b> :blue_book: [SQL - bookstore](https://github.com/AdamLnenicka/SQL-bookstore) </b>
