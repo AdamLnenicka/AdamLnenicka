@@ -3,6 +3,7 @@
 <details>
 <summary>🌱 What I’m currently learning </summary>
 
+  - <b> DevOps </b>
   - <b> :cloud: Virtualization and cloud services </b>
   - <b> Administration of MySQL and NoSQL database systems </b>
   - <b> Implementation of ITIL framework </b>
@@ -13,6 +14,7 @@
 <details>
 <summary>🔭 Projects that I’m currently working on</summary>
 
+  - <b> IBM DevOps and Software Engineering Professional Certificate </b>
   - <b> Virtualization and Containerization Deployment and Management </b>
   - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
   - <b> Web app architecture using ITIL framework </b>
@@ -21,7 +23,13 @@
 </details>
 
 <details>
+<summary><h2>👨‍💻DevOps Projects</h2></summary>
+</details>
+
+<details>
 <summary><h2>👨‍💻System Administration Projects</h2></summary>
+
+  - <b> [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
   
   - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
 
