@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/>Systems Administration at MENDELU, Software Engineer | DevOps</a> </h1>
+<h1>Hi, I'm Adam! <br/> Software Engineering | DevOps student</a> </h1>
 
 <details>
 <summary>🌱 What I’m currently learning </summary>
