@@ -25,7 +25,7 @@
 <details>
 <summary><h2>👨‍💻DevOps Projects</h2></summary>
   
-  - <b> [AI-Based Web Application Development and Deployment](https://github.com/AdamLnenicka/py1)</b>
+  - <b> [AI-powered web application for analyzing customer feedback](https://github.com/AdamLnenicka/py1)</b>
   
 </details>
 
