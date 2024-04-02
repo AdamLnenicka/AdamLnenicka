@@ -13,12 +13,12 @@
 
 <details>
 <summary>🔭 Projects that I’m currently working on</summary>
-
+  
+  - <b> IBM Full Stack Cloud Developer Professional Certificate </b>
   - <b> IBM DevOps and Software Engineering Professional Certificate </b>
   - <b> Virtualization and Containerization Deployment and Management </b>
   - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
   - <b> Web app architecture using ITIL framework </b>
-  - <b> CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins </b>
 
 </details>
 
@@ -35,8 +35,6 @@
   - <b> [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
   
   - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
-
-  - <b> [CI CD Pipeline to Deploy to Kubernetes Cluster using Jenkins](https://github.com/AdamLnenicka/devops1)[in progress] </b>
   
   - <b> :window: [Documentation and solution for Web inc (organization with 50 employees) - domain + windows server configuration ](https://github.com/AdamLnenicka/win1) </b>
   
