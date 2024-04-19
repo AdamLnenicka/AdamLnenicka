@@ -36,9 +36,6 @@
 
 <details>
 <summary><h2>👨‍💻System Administration Projects</h2></summary>
-
-
-  - <b> [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
   
   - <b> :cloud: [Virtualization and Containerization Deployment and Management](https://github.com/AdamLnenicka/AVS)[in progress] </b>
   
