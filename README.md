@@ -28,10 +28,10 @@
 <details>
 <summary><h2>👨‍💻DevOps Projects</h2></summary>
 
+  - <b> [MySQL & Docker & Python](https://github.com/AdamLnenicka/ADS1)</b>
   - <b> [Guestbook app build and deployment (Kubernetes & OpenShift)](https://github.com/AdamLnenicka/kubernetes1)</b>  
   - <b> [AI-powered web application for analyzing customer feedback (python)](https://github.com/AdamLnenicka/py1)</b>
-  - <b> [MySQL & Docker & Python](https://github.com/AdamLnenicka/ADS1)</b>
-  
+
 </details>
 
 <details>
