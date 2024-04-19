@@ -6,7 +6,7 @@
   - <b> DevOps </b>
   - <b> :cloud: Virtualization and cloud services </b>
   - <b> Administration of MySQL and NoSQL database systems </b>
-  - <b> Implementation of ITIL framework </b>
+  - <b> Unity engine </b>
   - <b> Formal languages and compilers </b>
 
 </details>
@@ -17,7 +17,7 @@
   - <b> IBM Full Stack Cloud Developer Professional Certificate </b>
   - <b> IBM DevOps and Software Engineering Professional Certificate </b>
   - <b> Virtualization and Containerization Deployment and Management </b>
-  - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
+  - <b> Video game in Unity</b>
   - <b> Web app architecture using ITIL framework </b>
 
 </details>
