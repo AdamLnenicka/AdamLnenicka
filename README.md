@@ -17,7 +17,10 @@
   - <b> IBM Full Stack Cloud Developer Professional Certificate </b>
   - <b> IBM DevOps and Software Engineering Professional Certificate </b>
   - <b> Virtualization and Containerization Deployment and Management </b>
-  - <b> Video game in Unity</b>
+  - <b> 2D shooter </b>
+  - <b> 3D shooter </b>
+  - <b> 2D platformer </b>
+  - <b> 3D platformer </b>
   - <b> Web app architecture using ITIL framework </b>
 
 </details>
