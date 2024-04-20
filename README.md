@@ -71,13 +71,11 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Software Development Projects</h2></summary>
+<summary><h2>👨‍💻 Software Engineering Projects</h2></summary>
   
   - <b> :car: [Web App for car servicing](https://github.com/AdamLnenicka/servis) (python + flask)</b>
 
   - <b> :moneybag: [Diagram design for online marketplace](https://github.com/AdamLnenicka/marketplace) (enterprise architect) </b>
-
-  - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
 </details>
 
@@ -110,6 +108,8 @@
 - <b> [Integrated Cybersecurity Framework for Educational Institutions](https://github.com/AdamLnenicka/ZKB) [in progress]</b>
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
+
+  - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
 </details>
 
