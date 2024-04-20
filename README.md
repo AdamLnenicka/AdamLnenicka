@@ -109,7 +109,7 @@
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
-  - <b> [Web app architecture using ITIL framework](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
+- <b> [ITIL framework for Food delivery Web app](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
 
 </details>
 
