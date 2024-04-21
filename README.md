@@ -109,7 +109,9 @@
 
 - <b> :electric_plug: [Electric circuit protocol made with matlab](https://github.com/AdamLnenicka/IEL) </b>
 
-- <b> [ITIL framework for Food delivery app](https://github.com/AdamLnenicka/ITIL) [in progress]</b>
+- <b> [ITIL framework for Food delivery app](https://github.com/AdamLnenicka/ITIL) </b>
+
+- <b> [Sp;ar system made in Unity](https://github.com/AdamLnenicka/solarsystem) </b>
 
 </details>
 
