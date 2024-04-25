@@ -17,10 +17,8 @@
   - <b> IBM Full Stack Cloud Developer Professional Certificate </b>
   - <b> IBM DevOps and Software Engineering Professional Certificate </b>
   - <b> Virtualization and Containerization Deployment and Management </b>
-  - <b> 2D shooter </b>
-  - <b> 3D shooter </b>
-  - <b> 2D platformer </b>
-  - <b> 3D platformer </b>
+  - <b> Integrated Cybersecurity Framework for Educational Institutions </b>
+  - <b> 2D shooter, 3D shooter, 2D platformer, 3D platformer made in Unity engine</b>
   - <b> Web app architecture using ITIL framework </b>
 
 </details>
@@ -111,7 +109,7 @@
 
 - <b> [ITIL framework for Food delivery app](https://github.com/AdamLnenicka/ITIL) </b>
 
-- <b> [Sp;ar system made in Unity](https://github.com/AdamLnenicka/solarsystem) </b>
+- <b> [Solar system made in Unity](https://github.com/AdamLnenicka/solarsystem) </b>
 
 </details>
 
